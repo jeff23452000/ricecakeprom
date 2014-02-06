@@ -1,5 +1,5 @@
-application: ricecakeprom
-version: 3
+application: rcp
+version: 4
 runtime: python
 api_version: 1
 
